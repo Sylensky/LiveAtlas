@@ -15,7 +15,7 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
-    "@kyvg/vue3-notification": "2.3.0",
+    "@kyvg/vue3-notification": "2.3.4",
     "@soerenmartius/vue3-clipboard": "^0.1",
     "leaflet": "git+https://github.com/JLyne/Leaflet.git#843eb3124492dc48245cd187c6dc94c2f33b65c1",
     "lodash.debounce": "^4.0.8",
